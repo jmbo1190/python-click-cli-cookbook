@@ -13,3 +13,4 @@ This application makes correct change as shown.
 
 ## Update click.style so it applies only to amounts
 
+![screen shot updated style](https://github.com/jmbo1190/python-click-cli-cookbook/blob/1dd0ad31eaea2ed3ce50e8cb508a73a9ad2757cf/python-click-cli-cookbook-update-style.png)
